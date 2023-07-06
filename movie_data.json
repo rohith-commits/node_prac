@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"god father",
+        "actors":{
+            "hero":"Al pacino",
+            "hero2":"Marlon Brando",
+            "heroine":"Diane keaton"
+        },
+        "collection":"2B"
+    },
+
+    {
+        "id":2,
+        "name":"scar face",
+        "actors":{
+            "hero":"Al pacino",
+            "hero2":"Steven Bauer",
+            "heroine":"Michelle Pfeiffer"
+        },
+        "collection":"1B"
+    }
+]
